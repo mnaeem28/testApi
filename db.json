@@ -1,4 +1,6 @@
-["products":[{ID:1,Name:"nokia",Quantity:5,Price:5000,Img:"assets/img/banner.png",catID:1},
+{
+  "products": [
+    {ID:1,Name:"nokia",Quantity:5,Price:5000,Img:"assets/img/banner.png",catID:1},
     {ID:2,Name:"sumsung",Quantity:10,Price:4000,Img:"assets/img/banner.png",catID:1},
     {ID:3,Name:"oppo",Quantity:20,Price:2000,Img:"assets/img/banner.png",catID:1},
     {ID:4,Name:"honor",Quantity:0,Price:5000,Img:"assets/img/banner.png",catID:1},
@@ -8,5 +10,6 @@
     {ID:8,Name:"toshiba",Quantity:7,Price:1000,Img:"assets/img/banner.png",catID:2},
     {ID:9,Name:"T-lenovo",Quantity:1,Price:2500,Img:"assets/img/banner.png",catID:3},
     {ID:10,Name:"T-huawie",Quantity:7,Price:3000,Img:"assets/img/banner.png",catID:3},
-    {ID:11,Name:"T-toshiba",Quantity:7,Price:4000,Img:"assets/img/banner.png",catID:3}]
-]
+    {ID:11,Name:"T-toshiba",Quantity:7,Price:4000,Img:"assets/img/banner.png",catID:3}
+      
+  ]
