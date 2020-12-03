@@ -12,8 +12,5 @@
     {"ID":10,"Name":"T-huawie","Quantity":7,"Price":3000,"Img":"assets/img/banner.png","catID":3},
     {"ID":11,"Name":"T-toshiba","Quantity":7,"Price":4000,"Img":"assets/img/banner.png","catID":3}
     
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
